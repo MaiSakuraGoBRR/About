@@ -1,3 +1,7 @@
 body {
   background-color: rgb(25, 25, 25);
 }
+
+.txtcol {
+  font-family: "Lucida Console", "Courier New", monospace; color:rgb(255,255,255);
+}
